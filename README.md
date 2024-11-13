@@ -1,7 +1,7 @@
 # airflow_pipelines
 Repository containing two airflow pipelines with the dag files
 
-##Airflow Setup
+## Airflow Setup
 
 - Install airflow using the `pip install apache-airflow`
 - Initialize Airflow db `airflow db init`
